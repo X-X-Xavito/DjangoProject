@@ -1,4 +1,4 @@
-#!/home/xavito/Desktop/DjangoProject/django-tutorial/bin/python
+#!/home/xavito/Desktop/Django-Project/DjangoProject/django-tutorial/bin/python
 
 import sys
 import getopt
